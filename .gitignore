@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+venv/
+.env
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Data
+resumes/
+*.sqlite3
+
+# macOS
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
+
+# Ignore secrets
+.env
